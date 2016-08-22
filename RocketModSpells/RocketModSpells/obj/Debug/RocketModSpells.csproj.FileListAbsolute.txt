@@ -1,0 +1,11 @@
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\RocketModSpells.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\RocketModSpells.pdb
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\Rocket.API.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\Rocket.Core.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\Rocket.Unturned.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\bin\Debug\UnityEngine.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\obj\Debug\RocketModSpells.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\obj\Debug\RocketModSpells.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\RocketModSpells\RocketModSpells\RocketModSpells\obj\Debug\RocketModSpells.pdb
